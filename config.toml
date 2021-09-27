@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "http://sharadvernekar.com/"
+baseURL = "https://sharadvernekar.github.io/sharadvernekar/"
 languageCode = "en"
 title = ""
 theme = "hugo-devresume-theme"
@@ -42,11 +42,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list]]
         title = "Technical"
         [[params.skills.list.items]]
+        details = "JAVA/SpringBoot/REST"
+        [[params.skills.list.items]]
         details = "JavaScript/Angular"
         [[params.skills.list.items]]
         details = "Magento/PHP"
-        [[params.skills.list.items]]
-        details = "JAVA/SpringBoot/REST"
         [[params.skills.list.items]]
         details = "Pivotal Cloud Foundry/Adobe Cloud"
         [[params.skills.list.items]]
@@ -73,13 +73,13 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.education.list]]
-        degree = "MSc in Computer Science"
-        university = "University College London"
-        dates = "2010 - 2011"
+        degree = "MBA in Finance"
+        university = "University of Texas at Dallas"
+        dates = "2003 - 2007"
         [[params.education.list]]
-        degree = "BSc Maths and Physics"
-        university = "Imperial College London"
-        dates = "2007 - 2010"
+        degree = "BE in Computer Technologu"
+        university = "Victoria Jubilee Technical Institute (VJTI) Bombay, India"
+        dates = "1990 - 1994"
 
     [params.awards]
         enable = true
