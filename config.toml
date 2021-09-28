@@ -113,9 +113,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.interests.list]]
         name = "Swimming"
         [[params.interests.list]]
-        name = "Photography"
-        [[params.interests.list]]
         name = "Gardening"
+        [[params.interests.list]]
+        name = "Photography"
 
     [params.summary]
         enable = true
@@ -200,7 +200,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.information.list]]
         title = "Interests"
-        details = "Chess, Skiing, Swimming, Photography, Gardening"
+        details = "Chess, Skiing, Swimming, Gardening, Photography"
 
     [params.social]
         enable = true
