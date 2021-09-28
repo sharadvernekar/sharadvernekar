@@ -99,6 +99,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.languages.list]]
         name = "English"
         level = "Professional"
+        [[params.languages.list]]
+        name = "Hindi"
+        level = "Professional"
 
     [params.interests]
         enable = true
@@ -112,11 +115,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.interests.list]]
         name = "Photography"
         [[params.interests.list]]
-        name = "Gardeninig"
+        name = "Gardening"
 
     [params.summary]
         enable = true
-        text = "Summarise your career here. Donec quam felis, ultricies nec, pellentesque eu. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.  Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+        text = "Software professional with over 25 years of experience in software delivery. My experience includes design and development of cutting-edge responsive web applications and RESTful web services using Angular framework for user interface and Spring Boot framework for microservice development. I demonstrate technical leadership; solve analytical problem and focus on long term objectives while delivering short term goals. I have the ability to take risks, develop quality solutions, and automate processes to drive cost reduction. I have exceptional organization skills with the ability to multitask and develop strong work relationships. I have successfully implemented several projects from concept to implementation using Agile methodologies, SCRUM framework, Continuous Integration (CI) and Continuous Delivery (CD) concepts. I am also a Certified USA Swimming official. In my spare time, I work on improving my swimming skills."
 
     [params.experience]
         enable = true
