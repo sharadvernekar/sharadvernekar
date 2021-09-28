@@ -50,6 +50,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list.items]]
         details = "Pivotal Cloud Foundry/Adobe Cloud"
         [[params.skills.list.items]]
+        details = "Jenkins/GitLab"
+        [[params.skills.list.items]]
         details = "Oracle/MySQL"
         [[params.skills.list.items]]
         details = "Object-oriented design"
@@ -67,31 +69,31 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list.items]]
         details = "Strong problem solver"
         [[params.skills.list.items]]
-        details = "Good time management"
+        details = "Excellent time management"
 
     [params.education]
         enable = true
 
         [[params.education.list]]
         degree = "MBA in Finance"
-        university = "University of Texas at Dallas"
-        dates = "2003 - 2007"
+        university = "University of Texas, Dallas Texas"
+        dates = "2005 - 2007"
         [[params.education.list]]
         degree = "BE in Computer Technologu"
-        university = "Victoria Jubilee Technical Institute (VJTI) Bombay, India"
+        university = "Victoria Jubilee Technical Institute (VJTI), Bombay India"
         dates = "1990 - 1994"
 
     [params.awards]
         enable = true
 
         [[params.awards.list]]
-        name = "Award Lorem Ipsum"
-        body = "Microsoft lorem ipsum"
-        date = "2019"
+        name = "FedEx IT Hall of Fame Award"
+        body = "FedEx Office Data Center Consolidation project"
+        date = "FY2021 Q1"
         [[params.awards.list]]
-        name = "Award Donec Sodales"
-        body = "Oracle Aenean"
-        date = "2017"
+        name = "FedEx Purple Star Award"
+        body = "Migration to PCF"
+        date = "FY2021 Q2"
 
     [params.languages]
         enable = true
@@ -125,78 +127,89 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.experience.list]]
-        title = "Senior Software Engineer"
-        dates = "2019 - Present"
-        company = "Google"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis."
+        title = "eCommerce Architect"
+        dates = "2020 - Present"
+        company = "FedEx Corporation"
+        details = "Architect for the FedEx Office Print online applications. Design and develop processes on the new Magento eCommerce platform. FedEx Office is migrating its Angular based eCommerce solution to the Magento framework based solution hosted in Adobe Cloud. "
         [[params.experience.list.items]]
-        details = "Lorem ipsum dolor sit amet, consectetuer."
+        details = "Identify and define the APIs needed to support the new platform."
         [[params.experience.list.items]]
-        details = "Aenean commodo ligula eget dolor."
+        details = "Set up tools and processes on Magento cloud."
         [[params.experience.list.items]]
-        details = "Etiam ultricies nisi vel augue."
+        details = "Assist product owners define requirements and acceptance criteria."
 
         [[params.experience.list]]
-        title = "Lead Software Developer"
+        title = "Full Stack Developer Advisor"
         dates = "2016 - 2019"
-        company = "Apple"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel."
+        company = "FedEx Corporation"
+        details = "Full Stack Developer Advisor for the FedEx Office eCommerce Value Stream organization. Technical owner and lead for several micro services and web components of the FedEx Office printing solutions eCommerce application flow."
         [[params.experience.list.items]]
-        details = "Lorem ipsum dolor sit amet, consectetuer."
+        details = "Build SOAP based MVC web services."
         [[params.experience.list.items]]
-        details = "Aenean commodo ligula eget dolor."
+        details = "Design and build Spring boot microservices and deploy them to PCF cloud."
+        [[params.experience.list.items]]
+        details = "Build Angular web application for FedEx Office print solution."
+        [[params.experience.list.items]]
+        details = "Set up AppDynamics monitoring for PCF applications."
+        [[params.experience.list.items]]
+        details = "Configure Jenkins CI/CD pipeline for full automation of code deployment and release management."
 
         [[params.experience.list]]
         title = "Senior Software Developer"
-        dates = "2014 - 2016"
-        company = "Dropbox"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+        dates = "2012 - 2016"
+        company = "FedEx Corporation"
+        details = "Code development and testing of FedEx Office applications supporting."
+        [[params.experience.list.items]]
+        details = "Migrated several legacy applications to SOAP based Spring applications."
+        [[params.experience.list.items]]
+        details = "Built and integrated tax system based on Vertex solution to support online and in-store customers."
+        [[params.experience.list.items]]
+        details = "Implemented token based credit card system to make the appplications PCI out-of-scope."
 
         [[params.experience.list]]
-        title = "Senior Developer"
-        dates = "2013 - 2014"
-        company = "Uber"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus."
+        title = "Information Specialist"
+        dates = "2009 - 2012"
+        company = "Hewlett-Packard"
+        details = "Maintain HP’s Integrated Traffic Management Software (ITMS) and perform enhancements to it for use by client. ITMS is a Telecommunication software product used to capture and record real-time information from the switches.."
+        [[params.experience.list.items]]
+        details = "Review and validate the data models."
+        [[params.experience.list.items]]
+        details = "Document the Software Requirements Specifications (SRS)."
 
         [[params.experience.list]]
-        title = "Backend Developer"
-        dates = "2014 - 2016"
-        company = "Amazon"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+        title = "Information Analyst"
+        dates = "2008 - 2009"
+        company = "Hewlett-Packard"
+        details = "Develop a system to integrate third party claim processing system into MetaVance. MetaVance is an Hewlett-Packard software product for the HealthCare Industry. It is used to automate core administrative processes for healthcare payers."
+        [[params.experience.list.items]]
+        details = "Analyze third-party claim data and creat mapping of the data to MetaVance claim format."
+        [[params.experience.list.items]]
+        details = "Convert existing paid and pending claims to MetaVance."
 
         [[params.experience.list]]
-        title = "Frontend Developer"
-        dates = "2013 - 2014"
-        company = "Startup"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus."
+        title = "Back-end developer"
+        dates = "2000 - 2008"
+        company = "Hewlett-Packard"
+        details = "Development and support for the Order management application software, IntradaPro. IntradaPro is a Hewlett-Packard developed JAVA based client-server application that is used for provisioning of local business orders. Involved in the analysis, design and development of various products for the application. On-call support for the Event Processing System (EPS) billing system."
+        [[params.experience.list.items]]
+        details = "Subject Matter Expert (SME) for the Bill Day Processing software."
+        [[params.experience.list.items]]
+        details = "Core design team member."
 
-    [params.projects]
-        enable = true
+        [[params.experience.list]]
+        title = "Software Developer"
+        dates = "1997 - 2000"
+        company = "MASTECH Corporation"
+        details = "Designed and developed a claims processing and reporting software for Blue Cross of Massachusetts."
 
-        [[params.projects.list]]
-        title = "Project Lorem Ipsum"
-        meta = "Open Source"
-        tagline = "You can use this section for your side projects. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
-
-        [[params.projects.list]]
-        title = "Project Sed Fringilla"
-        meta = "Open Source"
-        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
-
-        [[params.projects.list]]
-        title = "Project Praesent"
-        meta = "Open Source"
-        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+        [[params.experience.list]]
+        title = "Software Developer"
+        dates = "1996 - 1997"
+        company = "British-Telecom"
+        details = "Maintain and enhance the bill printing software. Developed the Outward Call Barring (OCB) functionality to the billing software."
 
     [params.information]
         enable = true
-
-        [[params.information.list]]
-        title = "Papers"
-        [[params.information.list.items]]
-        details = "2018 · Lorem Ipsum"
-        [[params.information.list.items]]
-        details = "2016 · Sed Fringilla"
 
         [[params.information.list]]
         title = "Interests"
@@ -207,12 +220,12 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.social.list]]
         icon = "fab fa-github-square"
-        url = "//github.com/username"
-        title = "username"
+        url = "//github.com/sharadvernekar"
+        title = "sharadvernekar"
         [[params.social.list]]
         icon = "fab fa-linkedin"
-        url = "//linkedin.com/in/username"
-        title = "username"
+        url = "//linkedin.com/in/sharadvernekar"
+        title = "sharadvernekar"
         [[params.social.list]]
         icon = "fab fa-twitter-square"
         url = "//twitter.com/username"
