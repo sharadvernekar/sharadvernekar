@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "https://sharadvernekar.github.io/sharadvernekar/"
+baseURL = "https://www.sharadvernekar.com/"
 languageCode = "en"
 title = ""
 theme = "hugo-devresume-theme"
